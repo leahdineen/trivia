@@ -1,0 +1,70 @@
+.background{
+	background: #6E298D;
+}
+
+.heyLookATable{
+	width: 100%;
+	height: 93%;
+}
+
+#wibblyWobblyTimeyWimey{
+	float: left;
+	color: white;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 40px;
+	text-align: center;
+}
+
+.scoreTitle{
+	float: right;
+	color: white;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 40px;
+	text-align: center;
+}
+
+#hereBeText{
+	color: white;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 40px;
+	text-align: center;
+}
+
+.scoringArea{
+	color: white;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 24px;
+	vertical-align: top;
+	width: 300px;
+}
+
+.TEAMS{
+	color: white;
+	width: 200px;
+	padding-top: 20px;
+}
+
+.daScores{
+	color: white;
+	width: 50px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.plus{
+	padding-top: 20px;
+}
+
+
+.plusplus{
+	width: 50px;
+	text-align: right;
+	padding-top: 20px;
+
+}
+
+.button{
+	border-radius: 3px;
+	background: white;
+	border: none;
+}
